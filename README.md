@@ -1,0 +1,2 @@
+# EpidemicSim
+Simulate an epidemic
